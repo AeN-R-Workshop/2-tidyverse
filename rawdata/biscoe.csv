@@ -1,0 +1,11 @@
+species,island,bill_length_mm,bill_depth_mm,flipper_length_mm,body.mass_g,sex,Year
+Gentoo,Biscoe,45,15.4,220,5050,male,2008
+Adelie,Biscoe,38.2,18.1,185,3950,male,2007
+Gentoo,Biscoe,45.1,14.5,215,5000,female,2007
+Gentoo,Biscoe,48.7,14.1,210,4450,female,2007
+Adelie,Biscoe,39.6,20.7,191,3900,female,2009
+Adelie,Biscoe,39.7,17.7,193,3200,female,2009
+Gentoo,Biscoe,43.3,14,208,4575,female,2009
+Adelie,Biscoe,37.6,19.1,194,3750,male,2008
+Gentoo,Biscoe,47.3,13.8,216,4725,<NA>,2009
+Gentoo,Biscoe,40.9,13.7,214,4650,female,2007
